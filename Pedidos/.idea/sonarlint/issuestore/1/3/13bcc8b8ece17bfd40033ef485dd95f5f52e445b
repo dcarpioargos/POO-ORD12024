@@ -1,0 +1,25 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(¿ƒ³¹8Àãá¹ü1
+L	java:S106"+Replace this use of System.out by a logger.(æÉƒŞûÿÿÿÿ8Äãá¹ü1
+J
+java:S1172"-Remove this unused method parameter "pedido".(Ü·ûµ8Æãá¹ü1
+G	java:S106"+Replace this use of System.out by a logger.(Œ¬ìÚ8Çãá¹ü1
+G	java:S106$"+Replace this use of System.out by a logger.(”›Â®8Èãá¹ü1
+L	java:S106)"+Replace this use of System.out by a logger.(Õ²¯ûÿÿÿÿ8Éãá¹ü1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Êãá¹ü1
+O
+java:S1068"-Remove this unused "idCliente" private field.(¢‰ùÌøÿÿÿÿ8Ëãá¹ü1
+L
+java:S1068"*Remove this unused "nombre" private field.(µÿï„ùÿÿÿÿ8Ìãá¹ü1
+O
+java:S1068	"-Remove this unused "direccion" private field.(“’’öÿÿÿÿÿ8Íãá¹ü1
+I
+java:S1068
+",Remove this unused "telefono" private field.(›š´Æ8Íãá¹ü1
+G
+java:S1068"*Remove this unused "correo" private field.(•“8Íãá¹ü1
+J
+java:S1068"(Remove this unused "edad" private field.(®ÂèÍûÿÿÿÿ8Îãá¹ü1
+M
+java:S1068"+Remove this unused "pedidos" private field.(áÊËóüÿÿÿÿ8Ïãá¹ü1
