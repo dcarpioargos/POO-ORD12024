@@ -4,17 +4,17 @@ import java.util.Date;
 
 public class Vehiculo {
     private String marca;
-    private int modelo;
-    private Date anio;
+    private String modelo;
+    private int anio;
 
     //constructor
-    public Vehiculo (String marca, int modelo, Date anio){
+    public Vehiculo (String marca, String modelo, Integer anio){
         this.marca = marca;
         this.modelo = modelo;
         this.anio = anio;
     }
-    public void arrancar(){
-        System.out.println("El vehiculo arranco");
+    public void arrancar(String tipoVehiculo){
+        System.out.println(tipoVehiculo + ": Arrancando");
     }
 
     public void detener (){
@@ -22,31 +22,31 @@ public class Vehiculo {
     }
 
     public void mostrarInfo(){
-        System.out.println("marca: "+ this.marca + "modelo:"+ this.modelo + "anio: "+ this.anio);
+        System.out.println("MARCA: "+ this.marca + " MODELO: "+ this.modelo + " AÑO: "+ this.anio);
     }
     //GETTER Y SETTER
 
-    public String getMarca(){
+    public String getMarca() {
         return marca;
-    }
-
-    public int getModelo(){
-        return modelo;
     }
 
     public void setMarca(String marca) {
         this.marca = marca;
     }
 
-    public void setModelo(int modelo) {
+    public String getModelo() {
+        return modelo;
+    }
+
+    public void setModelo(String modelo) {
         this.modelo = modelo;
     }
 
-    public void setAnio(Date anio) {
-        this.anio = anio;
+    public int getAnio() {
+        return anio;
     }
 
-    public Date getAnio(){
-        return anio;
+    public void setAnio(int anio) {
+        this.anio = anio;
     }
 }
