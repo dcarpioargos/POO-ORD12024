@@ -3,9 +3,11 @@ package org.example;
 public class Bicicleta extends Vehiculo{
     private int numeroVelocidades;
 
+
     public Bicicleta(int numeroVelocidades, String marca, String modelo, Integer anio){
         super(marca, modelo, anio);
         this.numeroVelocidades= numeroVelocidades;
+
     }
      public void tocarTimbre(){
         System.out.println("tocarTimbre");
