@@ -15,3 +15,5 @@ X
 (src/main/java/org/example/Bicicleta.java,2\9\29e3d784475efb6de057c73c29c58e450774d35f
 W
 'src/main/java/org/example/Vehiculo.java,4\6\46c6db57ef5b7a7f0c2d99c4ab22eeec0c5c59ca
+S
+#src/main/java/org/example/City.java,f\5\f5028b5f5dceab4898223043ae2568c860dda57f

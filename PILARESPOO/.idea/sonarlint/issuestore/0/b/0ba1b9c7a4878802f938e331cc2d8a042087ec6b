@@ -1,13 +1,11 @@
 
-`
-java:S1854"CRemove this useless assignment to local variable "bicicletaManuel".(ªİ’´8„ø£‰‡2
+m	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñæ»8¶ÏÏç2
 T
-java:S1854"7Remove this useless assignment to local variable "bmw".(ºÆÆµ8‘¤‰‡2
+java:S1854"7Remove this useless assignment to local variable "bmw".(ºÆÆµ8ÚÏÏç2
 E
-java:S1481"(Remove this unused "bmw" local variable.(ºÆÆµ8•¤‰‡2
-X	java:S125"<This block of commented-out lines of code should be removed.(‘ï‚÷8š¤‰‡2
-X	java:S125"<This block of commented-out lines of code should be removed.(± À±8ş‚ ‰‡2
-Q
-java:S1481"4Remove this unused "bicicletaManuel" local variable.(ªİ’´8“ø£‰‡2
-]	java:S125"<This block of commented-out lines of code should be removed.(²İçÁùÿÿÿÿ8’ƒ ‰‡2
-X	java:S125"<This block of commented-out lines of code should be removed.( ²Î8›ø£‰‡2
+java:S1481"(Remove this unused "bmw" local variable.(ºÆÆµ8ŞÏÏç2
+X	java:S125	"<This block of commented-out lines of code should be removed.(‘ï‚÷8àÏÏç2
+X	java:S125"<This block of commented-out lines of code should be removed.(± À±8âÏÏç2
+]	java:S125"<This block of commented-out lines of code should be removed.(²İçÁùÿÿÿÿ8ìÏÏç2
+X	java:S125"<This block of commented-out lines of code should be removed.(ì„Ú­8íÏÏç2
+G	java:S106)"+Replace this use of System.out by a logger.(¶ëĞÓ8óÏÏç2
